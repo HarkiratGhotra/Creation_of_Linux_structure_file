@@ -1,4 +1,4 @@
-SHEL SCRIPTINGL
+SHEL SCRIPTING
 =========
 
 Licensing Information: READ LICENSE  
